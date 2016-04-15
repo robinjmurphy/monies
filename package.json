@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/robinjmurphy/monies#readme",
   "dependencies": {
+    "async": "^2.0.0-rc.3",
     "chalk": "^1.1.3",
     "columnify": "^1.5.4",
     "commander": "^2.9.0",
