@@ -1,0 +1,36 @@
+{
+  "name": "monies",
+  "version": "1.0.0",
+  "description": "A little command line application for Mondo",
+  "main": "index.js",
+  "bin": {
+    "monies": "./lib/cli.js",
+    "£": "./lib/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinjmurphy/monies.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "mondo",
+    "cli",
+    "bank"
+  ],
+  "author": "robin@robinmurphy.co.uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinjmurphy/monies/issues"
+  },
+  "homepage": "https://github.com/robinjmurphy/monies#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "columnify": "^1.5.4",
+    "commander": "^2.9.0",
+    "flashheart": "^2.2.1",
+    "lodash": "^4.11.1",
+    "moment": "^2.12.0"
+  }
+}
