@@ -1,6 +1,6 @@
 {
   "name": "monies",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A little command line application for Mondo",
   "main": "index.js",
   "bin": {
