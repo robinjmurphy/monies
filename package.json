@@ -1,7 +1,7 @@
 {
   "name": "monies",
   "version": "1.0.4",
-  "description": "A little command line application for Mondo",
+  "description": "A little command line application for Monzo",
   "main": "index.js",
   "bin": {
     "monies": "./lib/cli.js",
@@ -16,6 +16,7 @@
   },
   "keywords": [
     "mondo",
+    "monzo",
     "cli",
     "bank",
     "monies"

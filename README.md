@@ -1,6 +1,6 @@
 # monies
 
-> A little command line application for [Mondo](https://www.getmondo.co.uk)
+> A little command line application for [Monzo](https://monzo.com/)
 
 ## Installation
 
@@ -10,10 +10,10 @@ npm install --global monies
 
 ## Usage
 
-Get a sample access token from the [Mondo Developer Portal](https://developers.getmondo.co.uk), then export it:
+Get a sample access token from the [Monzo Developer Portal](https://developers.monzo.com), then export it:
 
 ```
-export MONDO_TOKEN=...
+export MONZO_TOKEN=...
 ```
 
 (Proper authentication is coming soon!)
