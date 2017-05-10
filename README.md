@@ -32,4 +32,14 @@ monies recent
 # -£13.45 🐔 Nando's 16 hours ago
 ```
 
+`recent` takes an optional argument of days:
+```bash
+monies recent [days]
+```
+```bash
+monies recent 2
+# -£13.45 🐔 Nando's 16 hours ago
+# -£31.00 ☕️ Source 2 days ago
+```
+
 > To reduce wear on your keyboard, _monies_ is also installed as the `£` command.
