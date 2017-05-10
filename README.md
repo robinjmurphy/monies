@@ -1,5 +1,8 @@
 # monies
 
+[![Build Status](https://travis-ci.org/robinjmurphy/monies.svg?branch=master)](https://travis-ci.org/robinjmurphy/monies)
+
+
 > A little command line application for [Monzo](https://monzo.com/)
 
 ## Installation
